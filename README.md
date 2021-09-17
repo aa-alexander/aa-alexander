@@ -3,7 +3,8 @@
 - 👀 I’m interested in creating basics Bioinformatics workflows and other bioinformatics related scripts to make analysis fun and easy.
 
 - 💞️ I’m looking to collaborate with peoples from bioinformatics who are interested in writing scripts and workflows for different kinds of analysis.
-- 📫 You can reach me through linkedin ( https://www.linkedin.com/in/aaa1502/ ).
+- 📫 You can reach me through linkedin ( https://www.linkedin.com/in/aaa1502/ ) & twitter https://twitter.com/a_a_alexander_ .
+- 
 
 <!---
 aa-alexander/aa-alexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
