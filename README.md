@@ -1,7 +1,7 @@
 ### Hi there, I'm Arun Alexander 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin&labelColor=informational)](https://www.linkedin.com/in/aaa1502/)
-[![Twitter Follow](https://img.shields.io/twitter/url?style=social)](https://twitter.com/a_a_alexander)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter&labelColor=blue)](https://twitter.com/a_a_alexander)
 ![](https://visitor-badge.laobi.icu/badge?page_id=aa-alexander.aa-alexander)
 
 ## I'm a Life Sciences graduate 🧑🏽‍🎓, Biologist-Botanist, Bioinformatician and Researcher 🧑‍🔬!!
