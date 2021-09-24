@@ -1,7 +1,7 @@
 ### Hi there, I'm Arun Alexander 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin&labelColor=informational)](https://www.linkedin.com/in/aaa1502/)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter&labelColor=blue)](https://twitter.com/a_a_alexander)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter&labelColor=blue)](https://twitter.com/a_a_alexander_)
 ![](https://visitor-badge.laobi.icu/badge?page_id=aa-alexander.aa-alexander)
 
 ## I'm a Life Sciences graduate 🧑🏽‍🎓, Biologist-Botanist, Bioinformatician and Researcher 🧑‍🔬!!
@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/a_a_alexander"><img align="left" alt="a_a_alexander | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://twitter.com/a_a_alexander_"><img align="left" alt="a_a_alexander | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/aaa1502/"><img align="left" alt="aaa1502 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/aa_alexander__/"><img align="left" alt="aa_alexander__ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
   
