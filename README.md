@@ -1,4 +1,4 @@
-### Hi there, I'm Arun Alexander - aka alex 👋
+### Hi there, I'm Arun Alexander 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin&labelColor=informational)](https://www.linkedin.com/in/aaa1502/)
 [![Twitter Follow](https://img.shields.io/twitter/url?style=social)](https://twitter.com/a_a_alexander)
@@ -25,8 +25,11 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="32px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="32px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="32px">
-<img src="" alt="HTML" width="32px">
-<img src="https://w1.pngwing.com/pngs/451/367/png-transparent-pdf-logo-r-cran-statgraphics-rnn-programming-language-data-analysis-cairo.png" alt="R" width="32px">
+<img align="left" alt="R" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="32px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="32px">
 
