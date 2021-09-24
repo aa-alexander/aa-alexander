@@ -1,4 +1,4 @@
-### Hi there, I'm Arun Alexander - aka [alex][linkedin] 👋
+### Hi there, I'm Arun Alexander - aka alex 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin&labelColor=informational)](https://www.linkedin.com/in/aaa1502/)
 [![Twitter Follow](https://img.shields.io/twitter/url?style=social)](https://twitter.com/a_a_alexander)
