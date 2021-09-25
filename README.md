@@ -9,7 +9,7 @@
 - 🔭 I just started learning Bioinformatics one year back and have come a long way, since then!
 - 🌱 I’m currently learning everything - Programming, Molecular Biology 🧬 & Mathematics 😎
 - 👀 I’m trying to write and share some basics Bioinformatics workflows and other bioinformatics related scripts to make analysis fun and easy.
-- 💻 Intermediate Programming knowledge in Shell scripts, Python & R. Basic programming knowledge in C, HTML and JavaScript. 👨‍💻 Learning never ends!!! 
+- 💻 Intermediate Programming knowledge in Shell scripts, Python, Perl & R. Basic programming knowledge in C, HTML and JavaScript. 👨‍💻 Learning never ends!!! 
 
 
 ### Connect with me:
@@ -26,6 +26,7 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="R" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="Perl" width="32px" src="http://xahlee.info/UnixResource_dir/gki/perl_camel.svg" />
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
