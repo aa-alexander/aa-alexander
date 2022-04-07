@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter&labelColor=blue)](https://twitter.com/a_a_alexander_)
 ![](https://visitor-badge.laobi.icu/badge?page_id=aa-alexander.aa-alexander)
 
-## I'm a Life Sciences graduate 🧑🏽‍🎓, Biologist-Botanist, Bioinformatician and Researcher 🧑‍🔬!!
+## I'm a Life Sciences graduate 🧑🏽‍🎓, Biologist-Botanist, Bioinformatician, Proteomist and Researcher 🧑‍🔬!!
 
 - 🔭 I just started learning Bioinformatics one year back and have come a long way, since then!
 - 🌱 I’m currently learning everything - Programming, Molecular Biology 🧬 & Mathematics 😎
