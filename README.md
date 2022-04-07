@@ -7,9 +7,9 @@
 ## I'm a Life Sciences graduate 🧑🏽‍🎓, Biologist-Botanist, Bioinformatician, Proteomist and Researcher 🧑‍🔬!!
 
 - 🔭 I just started learning Bioinformatics one year back and have come a long way, since then!
-- 🌱 I’m currently learning everything - Programming, Molecular Biology 🧬 & Mathematics 😎
+- 🌱 Currently learning everything - Programming, Molecular Biology 🧬 & Mathematics 😎
 - 👀 I’m trying to write and share some basics Bioinformatics workflows and other bioinformatics related scripts to make analysis fun and easy.
-- 💻 Intermediate Programming knowledge in Shell scripts, Python, Perl & R. Basic programming knowledge in C, HTML and JavaScript. 👨‍💻 Learning never ends!!! 
+- 💻 Intermediate Programming knowledge in Shell scripts, Python, Perl & R. Basic programming knowledge in HTML and JavaScript. 👨‍💻 Learning never ends!!! 
 
 
 ### Connect with me:
